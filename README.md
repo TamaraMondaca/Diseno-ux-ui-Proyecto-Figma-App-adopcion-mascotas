@@ -1,90 +1,86 @@
-🐾 Zoosafe — Plataforma de Adopción de Mascotas
+# 🐾 Zoosafe — Plataforma de Adopción de Mascotas
 
-Proyecto UX/UI | Bootcamp de Diseño Centrado en el Usuario
+**Proyecto UX/UI | Bootcamp de Diseño Centrado en el Usuario**
 
-Zoosafe es una aplicación móvil pensada para conectar a personas interesadas en adoptar con refugios de animales, facilitando el proceso de adopción de forma rápida, visual y empática. Más que una solución digital, este proyecto representa mi proceso formativo como diseñadora UX/UI, donde integré habilidades de investigación, diseño, prototipado y validación centradas en el usuario.
+**Zoosafe** es una aplicación móvil diseñada para facilitar el proceso de adopción de mascotas, conectando de forma simple y efectiva a personas interesadas con refugios de animales. Este proyecto no solo aborda una problemática real, sino que también refleja mi recorrido como diseñadora UX/UI, integrando investigación, diseño estratégico y empatía hacia el usuario final.
 
-📱 ¿Qué hace la app?
+---
 
-Zoosafe resuelve el problema de la desconexión entre refugios y adoptantes mediante una experiencia digital clara, accesible y amigable. La app permite:
+## ✨ Sobre la App
 
-Ver mascotas disponibles con imágenes, raza, edad y nombre.
+Zoosafe nace con el objetivo de acortar la distancia entre quienes desean adoptar y los refugios que buscan dar visibilidad a sus animales. A través de una interfaz cálida, accesible y funcional, la app permite:
 
-Filtrar por tipo de mascota (perros, gatos, otros).
+- 👀 **Visualizar mascotas** con imágenes, raza, edad y nombre.
+- 🔎 **Filtrar por tipo** de mascota (perros, gatos, otros).
+- 🗺 **Ubicar animales cercanos** mediante un mapa interactivo con geolocalización.
+- 📝 **Postular para adoptar** de forma directa y sencilla.
+- 🐶 **Gestionar publicaciones** para refugios: agregar mascotas, editar y seguir postulaciones.
 
-Localizar animales cercanos a través de un mapa con geolocalización.
+> El diseño está pensado para inspirar confianza y motivar una acción real de adopción, acercando personas, animales y organizaciones.
 
-Postular fácilmente para adoptar una mascota.
+---
 
-A los refugios, gestionar publicaciones: agregar nuevas mascotas, editar y monitorear postulaciones.
+## 🌱 Lo que aprendí
 
-Su diseño busca acortar la brecha entre intención de adoptar y acción real, brindando visibilidad a los refugios y confianza a los usuarios.
+Este proyecto fue una experiencia completa de aprendizaje y aplicación práctica del proceso de diseño centrado en el usuario:
 
-🌱 Lo que aprendí con este proyecto
+### 👥 Investigación UX
+- Realicé entrevistas, encuestas y benchmarks.
+- Creé user personas y mapas de empatía.
+- Identifiqué dolores reales de los usuarios y los transformé en decisiones de diseño.
 
-Este proyecto fue clave en mi formación y crecimiento como diseñadora UX/UI. Me permitió:
+### 🧭 Experiencia de Usuario (UX)
+- Diseñé flujos simples y eficientes.
+- Priorización de funcionalidades según las verdaderas necesidades.
+- Estructuración clara del contenido para facilitar la navegación.
 
-👥 Investigación UX
+### 🎨 Interfaz y diseño visual (UI)
+- Wireframes de baja y alta fidelidad.
+- Sistema visual coherente: colores suaves (lavanda, celeste, beige), tipografía legible y botones accesibles.
+- Enfoque visual amigable sin perder funcionalidad.
 
-Aplicar técnicas reales: entrevistas, encuestas, benchmarks y mapas de empatía.
+### 🧪 Prototipado y validación
+- Prototipo navegable en **Figma**.
+- Pruebas con usuarios reales y mejoras iterativas.
+- Feedback continuo para optimizar experiencia e interacción.
 
-Comprender a fondo los desafíos de ambos perfiles (adoptante y refugio).
-→ Aprendí a traducir hallazgos en decisiones de diseño concretas.
+---
 
-🧭 Experiencia de Usuario
+## 🧩 Funcionalidades Clave
 
-Diseñar flujos centrados en la simplicidad y rapidez de uso.
+- 🔍 **Búsqueda visual** con fichas informativas de mascotas.
+- 📍 **Mapa interactivo** con ubicación de animales disponibles.
+- 🎚 **Filtros personalizados** por tipo de mascota.
+- 📝 **Postulación directa** desde la app.
+- 🛠 **Gestión intuitiva** para refugios (alta, edición y seguimiento).
 
-Priorización de funcionalidades esenciales según necesidades.
+---
 
-→ Desarrollé un enfoque estratégico para diseñar con propósito.
+## 🛠 Herramientas Utilizadas
 
-✨ Interfaz y diseño visual
+- **Figma** – Diseño de interfaz, UI Kit y prototipo interactivo.
+- **Miro** – Organización de ideas, benchmark y flujos.
+- **Google Fonts** – Tipografía legible y accesible.
 
-Wireframes de baja y alta fidelidad.
+---
 
-Creación de un sistema visual coherente: paleta de colores cálidos, botones accesibles, tipografía clara.
+## 💼 ¿Por qué este proyecto importa?
 
-→ Aprendí a cuidar cada detalle visual sin perder funcionalidad.
+Zoosafe no es solo una app: es una demostración de mis habilidades como diseñadora UX/UI. Aquí muestro que puedo:
 
-🧪 Prototipado y validación
+✅ Investigar con empatía  
+✅ Diseñar con propósito  
+✅ Construir visuales funcionales  
+✅ Validar y mejorar en base al feedback  
 
-Creación de prototipo navegable en Figma.
+---
 
-Pruebas con usuarios reales y mejoras iterativas.
+## 🚀 Lista para el próximo desafío
 
-→ Gané confianza en testear ideas y adaptarlas con agilidad.
+Este proyecto me preparó para formar parte de equipos que crean soluciones reales para personas reales.  
+Estoy lista para seguir diseñando experiencias digitales **útiles, accesibles y significativas**.
 
-🧩 Funcionalidades clave de Zoosafe
+---
 
-🔍 Búsqueda visual de mascotas con fichas informativas.
-
-📍 Mapa interactivo con mascotas cercanas.
-
-🎚 Filtros por tipo de animal.
-
-📝 Postulación directa desde la app.
-
-🐶 Gestión de publicaciones para refugios (alta, edición y seguimiento).
-
-🛠 Herramientas utilizadas
-
-Figma: diseño de interfaz, prototipos y sistema de diseño.
-
-Miro: organización de investigación y estructura de ideas.
-
-Google Fonts: selección de tipografía accesible.
-
-
-💼 ¿Por qué este proyecto es importante?
-
-Zoosafe es una muestra concreta de todo lo que puedo aportar como profesional en diseño UX/UI. Representa:
-
-Mi capacidad para investigar con empatía.
-
-Mi habilidad para diseñar soluciones funcionales y visualmente cuidadas.
-
-Mi compromiso con la validación y mejora continua.
-
-Hoy estoy lista para integrarme a equipos y proyectos que busquen crear experiencias digitales útiles, accesibles y significativas.
+📌 _Repositorio con fines formativos. Proyecto realizado durante el Bootcamp de Diseño UX/UI._
 
